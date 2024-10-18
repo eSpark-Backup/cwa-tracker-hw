@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Tracker-NB-IOT-v1.1.PcbDoc   18/10/2024  1:23:13 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Tracker-NB-IOT-v1.1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             308       PTH        555.15mm (21.86inch)
+T2      0.25mm (10mil)                                            Round             14        PTH        16.15mm (0.64inch)
+T3      0.3mm (12mil)                                             Round             30        PTH        162.35mm (6.39inch)
+T4      0.75mm (30mil)                                            Round             2         PTH        1.27mm (0.05inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T6      0.991mm (39mil)                                           Round             3         PTH        7.21mm (0.28inch)
+T7      0.2mm (8mil)                                              Round             6         NPTH       3.51mm (0.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              365
+
+Total Processing Time (hh:mm:ss) : 00:00:00
